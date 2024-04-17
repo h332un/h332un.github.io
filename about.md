@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-This is an example page!
+**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
